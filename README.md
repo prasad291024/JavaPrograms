@@ -57,7 +57,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 📞 Contact
 If you have any questions, feel free to connect:
 - GitHub: [prasad291024](https://github.com/prasad291024)
-- LinkedIn: [Your LinkedIn Profile](#)
+- LinkedIn: [Your LinkedIn Profile]([#](https://www.linkedin.com/in/prasad-valiv/))
 
 Happy Coding! 🎯🔥
 
