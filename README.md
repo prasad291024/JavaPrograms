@@ -1,6 +1,6 @@
-# LearningATB10xJavaPrograms
+# LearningJavaPrograms
 
-Welcome to the **LearningATB10xJavaPrograms** repository! 🚀
+Welcome to the **JavaPrograms** repository! 🚀
 
 This repository is dedicated to Java programming exercises and learning materials, following the ATB 10x Java learning approach. It covers fundamental to advanced Java concepts with hands-on examples and practice problems.
 
